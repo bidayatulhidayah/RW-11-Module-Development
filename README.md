@@ -32,11 +32,11 @@ This module focuses on developing an **autonomous robot** that navigates by foll
 - Implementing distance-based navigation logic  
 - Bluetooth control via an **ESP32 module**
 
-<img src="https://github.com/bidayatulhidayah/RW-11-Module-Development/blob/686738fe159e9bb3051a27b071fa0304d51f1b50/Documents/robot.png" alt="Flow Chart" width="600" />
+<img src="https://github.com/bidayatulhidayah/RW-11-Module-Development/blob/686738fe159e9bb3051a27b071fa0304d51f1b50/Documents/robot.png" alt="Robot" width="600" />
 
 
 ## **Hardware Requirements**
-- **Microcontroller**: ESP32 or Arduino  
+- **Microcontroller**: ESP32 or Arduino
 - **Motors & Drivers**: TT DC motors, L298N Motor Driver  
 - **Sensors**: Ultrasonic Sensor (HC-SR04)  
 - **Power Supply**: Li-ion battery (3.7V, 6800mAh)  
