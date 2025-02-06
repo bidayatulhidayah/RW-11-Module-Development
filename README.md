@@ -30,7 +30,10 @@ This module focuses on developing an **autonomous robot** that navigates by foll
 - Understanding ultrasonic sensors (HC-SR04)  
 - Motor driver control for DC motors  
 - Implementing distance-based navigation logic  
-- Bluetooth control via an **ESP32 module**  
+- Bluetooth control via an **ESP32 module**
+
+<img src="https://github.com/bidayatulhidayah/RW-11-Module-Development/blob/686738fe159e9bb3051a27b071fa0304d51f1b50/Documents/robot.png" alt="Flow Chart" width="600" />
+
 
 ## **Hardware Requirements**
 - **Microcontroller**: ESP32 or Arduino  
